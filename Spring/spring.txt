@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Spring</title>
+    </head>
+    <body>
+        <h1>Spring</h1>
+		<br/>
+        <h3>“An optimist is the human personification of spring.”</h3>
+		<h5> – Susan J. Bissonette</h5>
+        <br/> 
+        <p>Spring awakens the world with blooming flowers, gentle breezes, and a sense of renewal, bringing fresh energy and opportunities to embrace the outdoors. This season also includes the festival of colors Holi, Easter and lot of regions in India celebrate their New Year, like Puthandu in Tamilnadu, Vishu in Kerala, etc.</p>
+        <p>Here we have some ideas on seasonal activities to do and delicious food to enjoy spring to the fullest</p>
+        
+		<h2>Activities to DO</h2>
+		<br/>
+		<p>Have a Picni</p>
+		<img src="images/snowman.jpg" alt="snowman">
+	
+		<p>Ride a bike</p>
+		<img src="images/mov.jpg" alt="movies or tv">
+		<img src="images/movi.jpg" alt="movies or tv">
+		
+		<p>Build a Garden</p>
+		<img src="images/cakie.jpg" alt="cake">
+		<img src="images/cookie.jpg" alt="Soup">
+		
+		<p>Visit an Arboretum or Public Garden</p>
+		<img src="images/games.jpg" alt="games">
+		
+		<p>Observe and Study Flowers</p>
+		<img src="images/snow.jpg" alt="snowflakes">
+		<img src="images/flakes.jpg" alt="snowflakes">
+		
+		<p>Watch a Comedy</p>
+		<img src="images/fire.jpg" alt="fire">
+		<br/>
+	    <br/>
+	
+		<h2>Food</h2>
+		<br/>
+		<p>From Morning Ginger Tea to Hot Chocolate with raosted marshmallows and Hearty soups and stews, like creamy tomato soup in the evenings with ghee roasted rusk - winter is the perfect season to indulge in warm, comforting dishes that keep the chill at bay.</p>
+        <img src="images/soup.jpg" alt="Soup">
+		<img src="images/chai.jpg" alt="Chai">
+		<img src="images/cocoa.jpg" alt="Hot Chocolate">
+	
+        <p>Diwali snacks like Adhirasam and Paniyaram are delicious snacks to stuff yourselves with.</p>
+		<img src="images/adr.jpg" alt="Adhirasam">
+		<img src="images/pnyrm.jpg" alt="Paniyaram">
+	
+        <p>Baked goods like gingerbread cookies and plum cakes bring festive cheer to the table.</p> 
+		<img src="images/cake.jpg" alt="Plum Cake">
+		<img src="images/gb.jpg" alt="Ginger Bread">
+		
+        <p>For a special treat, nothing beats the classic Chuda Mattar and Carrot Halwa combo.</p>
+		<img src="images/cm.jpg" alt="Chuda Mattar">
+		<img src="images/carroth.jpg" alt="Carrot Halwa">
+		
+		<br/>
+		<h5>Thank You for Reading</h3>
+		<h3>HAVE FUN!!!</h3>
+     </body>
+</html>
